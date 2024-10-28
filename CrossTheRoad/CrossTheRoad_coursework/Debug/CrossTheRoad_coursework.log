@@ -1,0 +1,5 @@
+﻿  CrossTheRoad_coursework.cpp
+C:\Users\hp\Desktop\nout old\projects\coursework\CrossTheRoad_coursework\CrossTheRoad_coursework\CrossTheRoad_coursework.cpp(46,32): warning C4552: '!=': result of expression not used
+C:\Users\hp\Desktop\nout old\projects\coursework\CrossTheRoad_coursework\CrossTheRoad_coursework\CrossTheRoad_coursework.cpp(73,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hp\Desktop\nout old\projects\coursework\CrossTheRoad_coursework\CrossTheRoad_coursework\CrossTheRoad_coursework.cpp(155,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CrossTheRoad_coursework.vcxproj -> C:\Users\hp\Desktop\nout old\projects\coursework\CrossTheRoad_coursework\Debug\CrossTheRoad_coursework.exe

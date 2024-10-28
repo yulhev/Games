@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\Desktop\\nout old\\projects\\coursework\\CrossTheRoad_coursework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF55B6F-5D01-40BC-9533-F8F07C27FDDC}|CrossTheRoad_coursework\\CrossTheRoad_coursework.vcxproj|C:\\Users\\hp\\Desktop\\nout old\\projects\\coursework\\CrossTheRoad_coursework\\CrossTheRoad_coursework\\CrossTheRoad_coursework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1EF55B6F-5D01-40BC-9533-F8F07C27FDDC}|CrossTheRoad_coursework\\CrossTheRoad_coursework.vcxproj|solutionrelative:CrossTheRoad_coursework\\CrossTheRoad_coursework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CrossTheRoad_coursework.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\Desktop\\nout old\\projects\\coursework\\CrossTheRoad_coursework\\CrossTheRoad_coursework\\CrossTheRoad_coursework.cpp",
+              "RelativeDocumentMoniker": "CrossTheRoad_coursework\\CrossTheRoad_coursework.cpp",
+              "ToolTip": "C:\\Users\\hp\\Desktop\\nout old\\projects\\coursework\\CrossTheRoad_coursework\\CrossTheRoad_coursework\\CrossTheRoad_coursework.cpp*",
+              "RelativeToolTip": "CrossTheRoad_coursework\\CrossTheRoad_coursework.cpp*",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAJoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T20:43:12.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
